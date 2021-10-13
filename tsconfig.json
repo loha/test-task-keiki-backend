@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "lib": ["esnext", "esnext.asynciterable", "dom"],
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "jsx": "preserve",
+    "sourceMap": true,
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "useUnknownInCatchVariables": false,
+    "noImplicitReturns": true,
+    "noImplicitAny": false,
+    "noEmit": false,
+    "baseUrl": "./src/",
+    "paths": {
+      "~/*": ["./*"]
+    },
+    "types": ["@types/node"],
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": false
+  },
+  "exclude": ["dist", "node_modules", "pgdata", "webpack.config.js"]
+}

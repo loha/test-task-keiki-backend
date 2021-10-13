@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "watch:build": "webpack --watch --mode=development",
+    "watch:server": "nodemon dist/main.js",
+    "build:dev": "webpack --mode=development",
+    "build:prod": "webpack --mode=production",
+    "command": "webpack --mode=production && node dist/command.js",
+    "start": "cross-env NODE_ENV=production node dist/main.js"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "@types/pg": "^8.6.1",
+    "@types/validator": "^13.6.3",
+    "commander": "^8.2.0",
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.13",
+    "prettier": "^2.2.1",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.4.3",
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0",
+    "webpack-node-externals": "^3.0.0"
+  },
+  "dependencies": {
+    "cookie": "^0.4.1",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "pg": "^8.7.1",
+    "uuid": "^8.3.2",
+    "validator": "^13.6.0"
+  }
+}

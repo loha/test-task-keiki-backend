@@ -1,0 +1,14 @@
+[
+  {
+    "id": "a8ee1efb-739f-4a3a-ac64-e21c955415c8",
+    "name": "awaiting"
+  },
+  {
+    "id": "cf23e0b4-1564-489c-9c45-ead9150240c5",
+    "name": "performed"
+  },
+  {
+    "id": "4ca04d1b-c05e-4ca7-956f-392d3cbeeb73",
+    "name": "completed"
+  }
+]

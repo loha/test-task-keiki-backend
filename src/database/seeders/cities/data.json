@@ -1,0 +1,22 @@
+[
+  {
+    "id": "648aad1d-6c58-47de-8af3-87acb08d1e2f",
+    "name": "Kyiv"
+  },
+  {
+    "id": "8c9cbf3e-e088-4b2e-ac2d-1c39f72b35ad",
+    "name": "Kharkiv"
+  },
+  {
+    "id": "c78c12f2-879a-4434-9b36-422e5fe33c2a",
+    "name": "Odesa"
+  },
+  {
+    "id": "ee8eb19e-28c3-4f16-8d2b-991060104e61",
+    "name": "Dnipro"
+  },
+  {
+    "id": "9dcea378-279f-4726-ba08-7b4fc9a4eb33",
+    "name": "Zaporizhzhia"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4f045f0c-d05c-44a5-8b41-20ac3267d5e7",
+    "cityStart": "648aad1d-6c58-47de-8af3-87acb08d1e2f",
+    "cityEnd": "c78c12f2-879a-4434-9b36-422e5fe33c2a",
+    "distance": "442",
+    "transportType": "a717317c-00d6-407e-b97e-6bc82eb81307",
+    "revenue": "1000",
+    "status": "cf23e0b4-1564-489c-9c45-ead9150240c5",
+    "transport": "90b86d65-01f0-41d3-87fe-6e963555b572",
+    "startDate": "2021-10-05T00:00:00.000Z",
+    "endDate": "2021-10-20T00:00:00.000Z"
+  },
+  {
+    "id": "e0259098-ef92-45a6-a3d0-9e39b3432e82",
+    "cityStart": "ee8eb19e-28c3-4f16-8d2b-991060104e61",
+    "cityEnd": "9dcea378-279f-4726-ba08-7b4fc9a4eb33",
+    "distance": "194",
+    "transportType": "adcdc1cb-c8e3-4f16-b3a7-e3f86172e1e2",
+    "revenue": "300",
+    "status": "4ca04d1b-c05e-4ca7-956f-392d3cbeeb73",
+    "transport": "a0f2a323-c7a6-4d6b-9955-773781658aee",
+    "startDate": "2021-10-03T00:00:00.000Z",
+    "endDate": "2021-10-05T00:00:00.000Z"
+  }
+]
